@@ -4,23 +4,34 @@ This is a static WhatsApp Web clone built using only HTML and CSS. The project f
 # Features
 
 -> Static layout similar to WhatsApp Web
+
 -> Chat sidebar with user list
+
 -> Chat window with message bubbles
+
 -> Profile pictures and icons
+
 -> Clean and organized structure
 
 
 # Folder Structure
 
 whatsapp-clone/
+
 ├── index.html       # Main HTML structure
+
 ├── style.css        # Styling with CSS
+
 └── assets/          # Images, icons, etc.
 
 
 
 
 # Tech Stack
+
+-> HTML
+
+-> CSS 
 
 HTML5
 CSS3
