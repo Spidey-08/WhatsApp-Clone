@@ -33,6 +33,4 @@ whatsapp-clone/
 
 -> CSS 
 
-HTML5
-CSS3
 
